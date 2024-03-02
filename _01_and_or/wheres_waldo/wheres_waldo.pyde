@@ -23,7 +23,7 @@ def setup():
 
     # sketch background
 
-    
+
 def draw():
     # If the user presses the mouse...
     # *Hint* use the mousePressed variable
