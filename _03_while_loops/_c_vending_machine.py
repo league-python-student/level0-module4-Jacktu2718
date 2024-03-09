@@ -27,7 +27,7 @@ def vending_machine(money):
             messagebox.showwarning('Invalid item',
                                    'Please enter one of the following ' + str([item for item in items_for_sale]))
 
-# ======================= DO NOT EDIT THE CODE ABOVE =========================
+# ===============================                        ===DO NOT EDIT THE CODE ABOVE====================================================================================================================
 
 
 if __name__ == '__main__':

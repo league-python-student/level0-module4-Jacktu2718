@@ -7,9 +7,10 @@ from tkinter import messagebox, simpledialog, Tk
 # The for loop repeats code for a specified number of times.
 # The while loop repeats code for as long as a condition is True.
 # A while loop looks like this:
-#
-#   while <condition>:
-#       # Code to repeat
+#   n =5
+#   while n <5:
+#       print a string
+#       add 1 to n
 #
 # Where <condition> is a boolean variable or something that evaluates to a
 # boolean (True or False). This is similar to an if or elif statement.
