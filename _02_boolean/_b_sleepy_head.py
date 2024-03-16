@@ -19,8 +19,24 @@ if __name__ == '__main__':
     #     variables are true, use a turtle to draw a red square.
     boolean1 = True
     boolean2 = False
-
-
+    boolean3 = True
+    boolean4 = False
+    if boolean1:
+        print('It is the weekend')
+    if not boolean1:
+        print('It is not the weekend')
+    if not boolean2:
+        print('you passed!')
+    if boolean2:
+        print('you did not pass!')
+    if boolean3:
+        print('the game is over')
+    if not boolean3:
+        print('the game is not over')
+    if not boolean4:
+        print('its red')
+    if boolean4:
+        print('its not a square')
 
 
 
